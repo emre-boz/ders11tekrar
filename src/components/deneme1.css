@@ -1,0 +1,17 @@
+.online{
+    color:white;
+    background-color: green;
+    border-radius: 5px;
+    max-width: 300px;
+    text-align: center;
+    margin:auto;
+}
+
+.offline{
+    color:white;
+    background-color: red;
+    border-radius: 5px;
+    max-width: 300px;
+    text-align: center;
+    margin:auto; 
+}
