@@ -1,0 +1,13 @@
+.uyari{
+    background-color: red;
+}
+
+.olumlu-mesaj{
+    background-color: green;
+}
+
+.uyari , .olumlu-mesaj{
+    color:white;
+    padding: 1rem;
+    border-radius: 10px;
+}
